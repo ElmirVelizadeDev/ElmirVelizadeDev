@@ -1,90 +1,71 @@
-# Hi, I'm Elmir Vəlizadə 👋
+<h1 align="center">Elmir Vəlizadə</h1>
 
-### Full Stack Developer | Laravel & Vue.js
+<p align="center">
+  Full Stack Developer &nbsp;|&nbsp; Laravel &amp; Vue.js
+</p>
 
-I’m a Full Stack Developer passionate about building scalable, maintainable, and user-focused web applications. I work primarily with **PHP, Laravel, JavaScript, and Vue.js**, focusing on clean code, well-structured architectures, and practical solutions to real-world problems.
-
-I enjoy developing end-to-end web applications, designing RESTful APIs, and building reliable backend systems integrated with modern, responsive frontends.
-
----
-
-## 🛠️ Technical Skills
-
-**Backend Development**
-- PHP
-- Laravel
-- RESTful API Development
-- Authentication & Authorization
-
-**Frontend Development**
-- JavaScript (ES6+)
-- Vue.js
-- HTML5 & CSS3
-- Bootstrap
-
-**Database Management**
-- MySQL
-- Relational Database Design
-- Database Migrations & Eloquent ORM
-
-**Tools & Workflow**
-- Git & GitHub
-- npm
-- Postman
-- Laragon
+<p align="center">
+  <a href="https://www.linkedin.com/in/elmir-v%C9%99lizad%C9%99-aa946643b/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/ElmirVelizadeDev">GitHub</a>
+</p>
 
 ---
 
-## 🚀 Featured Project
+## About
 
-### 📚 SecondBook — Online Book Marketplace
+Full Stack Developer working primarily with PHP, Laravel, JavaScript, and Vue.js. I build scalable, maintainable, and user-focused web applications, with an emphasis on clean code, well-structured architecture, and practical solutions to real-world problems.
 
-A full-stack online marketplace designed to connect book sellers and readers through a structured, user-friendly platform.
-
-**Key Features**
-- User authentication and role-based access control
-- Multi-role architecture for administrators, sellers, and customers
-- Book catalog and inventory management
-- Shopping cart and order management
-- Seller applications and store management
-- Product reviews and wishlists
-- Administrative dashboard and platform management
-- REST API integration and database-driven functionality
-
-**Technology Stack:** PHP · Laravel · MySQL · JavaScript · Vue.js · Bootstrap
-
-🔗 **Repository:** [SecondBook on GitHub](https://github.com/ElmirVelizadeDev/SecondBook)
+My work covers end-to-end web development: designing RESTful APIs, building reliable backend systems, and integrating them with modern, responsive frontends.
 
 ---
 
-## 📖 Currently Learning & Improving
+## Tech Stack
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-2b2b2b?style=flat-square)
+![Laravel](https://img.shields.io/badge/Laravel-2b2b2b?style=flat-square)
+![REST API](https://img.shields.io/badge/REST_API-2b2b2b?style=flat-square)
+![Authentication](https://img.shields.io/badge/Auth-2b2b2b?style=flat-square)
+
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-2b2b2b?style=flat-square)
+![Vue.js](https://img.shields.io/badge/Vue.js-2b2b2b?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-2b2b2b?style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-2b2b2b?style=flat-square)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-2b2b2b?style=flat-square)
+
+**Database**
+
+![MySQL](https://img.shields.io/badge/MySQL-2b2b2b?style=flat-square)
+![Eloquent ORM](https://img.shields.io/badge/Eloquent_ORM-2b2b2b?style=flat-square)
+![Migrations](https://img.shields.io/badge/Migrations-2b2b2b?style=flat-square)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-2b2b2b?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-2b2b2b?style=flat-square)
+![npm](https://img.shields.io/badge/npm-2b2b2b?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-2b2b2b?style=flat-square)
+![Laragon](https://img.shields.io/badge/Laragon-2b2b2b?style=flat-square)
+
+---
+
+## Focus Areas
 
 - Advanced Laravel development and application architecture
-- Vue.js and component-based frontend development
+- Component-based frontend development with Vue.js
 - RESTful API design and integration
 - Secure authentication and authorization
 - Database optimization and efficient query design
-- Clean Code, SOLID principles, and maintainable software design
+- Clean Code and SOLID principles
 
 ---
 
-## 🎯 Development Principles
+## Connect
 
-- **Clean Code:** Writing readable, reusable, and maintainable code.
-- **Scalable Architecture:** Organizing applications for future growth.
-- **Security First:** Following secure authentication and authorization practices.
-- **Continuous Learning:** Improving technical skills through practical projects.
-- **Problem Solving:** Turning requirements into functional, reliable solutions.
+I'm open to connecting with other developers and exploring new opportunities.
 
----
-
-## 🤝 Let's Connect
-
-I'm open to connecting with developers, collaborating on interesting projects, and exploring opportunities to grow as a software developer.
-
-- **LinkedIn:** [Elmir Vəlizadə](https://www.linkedin.com/in/elmir-v%C9%99lizad%C9%99-aa946643b/)
-- **GitHub:** [ElmirVelizadeDev](https://github.com/ElmirVelizadeDev)
-
----
-
-*Building, learning, and improving — one project at a time.*
+[LinkedIn](https://www.linkedin.com/in/elmir-v%C9%99lizad%C9%99-aa946643b/) · [GitHub](https://github.com/ElmirVelizadeDev)
